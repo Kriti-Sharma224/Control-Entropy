@@ -20,13 +20,13 @@ To ensure comparability across different samples, entropy is normalized using th
 
 # 📥 Input Fields and Data Types
 
-# Field Name			Data Type			Description
+Field Name				Data Type						Description
 
-dot_balls			integer			Number of deliveries resulting in no runs
+dot_balls				integer				Number of deliveries resulting in no runs
 
-singles				integer			Number of deliveries resulting in low scoring (1–2 runs)
+singles					integer				Number of deliveries resulting in low scoring (1–2 runs)
 
-boundaries			integer			Number of high-cost deliveries (4s, 6s)
+boundaries				integer				Number of high-cost deliveries (4s, 6s)
 
 # 🔄 Derived Variables and Their Meaning
 
